@@ -14,6 +14,6 @@ In 2016, Oracle donated the NetBeans source code to the Apache Software Foundati
 
 # Projects List
 
-- MySQL
-- Serial Comunication
+MySQL
+Serial Comunication
 
