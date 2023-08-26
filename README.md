@@ -12,8 +12,8 @@ In 2016, Oracle donated the NetBeans source code to the Apache Software Foundati
 
 ![image](https://github.com/jariver1986/Java/assets/62295761/4909c3ae-4c0b-4116-88f7-d73714859717)
 
-Projects List
+# Projects List
 
-# MySQJ
-# Serial Comunication
+- MySQL
+- Serial Comunication
 
